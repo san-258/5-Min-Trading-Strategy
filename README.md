@@ -1,2 +1,2 @@
-# 5-Min-Trading-Strategy
-5 Min Trading BOT
+# 15-Min-Trading-Strategy
+15 Min Trading BOT
